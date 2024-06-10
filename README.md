@@ -58,9 +58,3 @@ This is a full stack notes application built with Node.js, Express, MongoDB, and
 
 This project is licensed under the MIT License.
 `
-
-### Дополнительно:
-
-- GitHub Actions: Настройте CI/CD с помощью GitHub Actions для автоматического тестирования и деплоя.
-- Скриншоты: Добавьте скриншоты приложения в README.md, чтобы пользователи могли увидеть интерфейс перед установкой.
-- API Documentation: Используйте Swagger или Postman для документирования вашего API.
